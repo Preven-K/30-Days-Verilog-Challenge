@@ -4,5 +4,7 @@
 2. Adders : This contains half, full, Ripple carry, Carry lookahead Adders.
 3. Subractors : This contains half, full subractors and full adder using half subractors and also Binary adder or Subractor.
 4. Multiplexer & Demultiplexer : This Contains 16x1 Mux, 1x8 DeMux, Mux using tristate buffer and Transmission Gate
-5. Comparator and Decimal Converter : This Contains 4bit comparator, N bit comparator, Decimal to BCD and Decimal to Binary Encoders.
+5. Encoder & Decoders : This Contains Encoders, Decoders, Priority Encoder and Decoder using Multiplexer.
+6. Comparator and Decimal Converter : This Contains 4bit comparator, N bit comparator, Decimal to BCD and Decimal to Binary Encoders.
+7. Converters : This Contains Octal to Binary, Binary to Gray and Vice versa.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
