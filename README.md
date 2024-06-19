@@ -7,4 +7,6 @@
 5. Encoder & Decoders : This Contains Encoders, Decoders, Priority Encoder and Decoder using Multiplexer.
 6. Comparator and Decimal Converter : This Contains 4bit comparator, N bit comparator, Decimal to BCD and Decimal to Binary Encoders.
 7. Converters : This Contains Octal to Binary, Binary to Gray and Vice versa.
+8. BCD : This contains BCD to excess3 and Bianry to BCD convertion and BCD Addition.
+9. Parity Generator & Comparator : N-bit Parity Generator and Odd and Even parity Checker.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
