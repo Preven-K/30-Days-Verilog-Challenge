@@ -9,4 +9,5 @@
 7. Converters : This Contains Octal to Binary, Binary to Gray and Vice versa.
 8. BCD : This contains BCD to excess3 and Bianry to BCD convertion and BCD Addition.
 9. Parity Generator & Comparator : N-bit Parity Generator and Odd and Even parity Checker.
+10. Seven Segment Display & Squarer : This invloves BCD deocded into Seven segment display and 3bit Squarer.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
