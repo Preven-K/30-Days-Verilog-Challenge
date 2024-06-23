@@ -11,5 +11,6 @@
 9. Parity Generator & Comparator : N-bit Parity Generator and Odd and Even parity Checker.
 10. Seven Segment Display & Squarer : This invloves BCD deocded into Seven segment display and 3bit Squarer.
 11. Buffer : This contains Tri state buffer and Clock generator with various frequency.
-12. Latches : This contains SR latches with NAND and NOR and D Latch with NAND and NOR. 
+12. Latches : This contains SR latches with NAND and NOR and D Latch with NAND and NOR.
+13. Flipflops : This contains SR, JK, D, T Flipflops.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
