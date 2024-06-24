@@ -13,4 +13,5 @@
 11. Buffer : This contains Tri state buffer and Clock generator with various frequency.
 12. Latches : This contains SR latches with NAND and NOR and D Latch with NAND and NOR.
 13. Flipflops : This contains SR, JK, D, T Flipflops.
+14. Detector and Register : This contains Minority Detector and Buffered Register.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
