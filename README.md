@@ -14,4 +14,5 @@
 12. Latches : This contains SR latches with NAND and NOR and D Latch with NAND and NOR.
 13. Flipflops : This contains SR, JK, D, T Flipflops.
 14. Detector and Register : This contains Minority Detector and Buffered Register.
+15. Adders II : This contains N Bit BCD adder and Carry Save Adder.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
