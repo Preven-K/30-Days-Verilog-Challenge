@@ -15,4 +15,5 @@
 13. Flipflops : This contains SR, JK, D, T Flipflops.
 14. Detector and Register : This contains Minority Detector and Buffered Register.
 15. Adders II : This contains N Bit BCD adder and Carry Save Adder.
+16. Adders III : This contains Serial, Parallel, and Carry Skip Adder.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
