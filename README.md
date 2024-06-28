@@ -17,4 +17,5 @@
 15. Adders II : This contains N Bit BCD adder and Carry Save Adder.
 16. Adders III : This contains Serial, Parallel, and Carry Skip Adder.
 17. Counter I : This contains Synchronous Up Down counter and Decade Counter.
+18. Counter II : This contains Modulo Nbit Counter and Jhonson Counter.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
