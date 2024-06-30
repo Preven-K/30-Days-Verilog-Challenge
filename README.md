@@ -19,4 +19,5 @@
 17. Counter I : This contains Synchronous Up Down counter and Decade Counter.
 18. Counter II : This contains Modulo Nbit Counter and Jhonson Counter.
 19. Counter III : This contains Ring Counter and Digital Clock.
+20. Counter & Clock Divider : This contains Clock Divider which has two period of input and Gray counter.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
