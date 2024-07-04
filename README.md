@@ -22,4 +22,6 @@
 20. Counter & Clock Divider : This contains Clock Divider which has two period of input and Gray counter.
 21. Shift Operator & Registers : This contains Shift Operators and Serial in Serial and Parallel Out Shift Registers.
 22. Shift Registers II : This contains Parallel in Parallel out and serial out Shift Registers.
+23. Bidirectional Shift Register : This contains 4bit shift register ////
+24. Universal Shift Register : This contains universal shift register which perform left, right, pipo shifts.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
