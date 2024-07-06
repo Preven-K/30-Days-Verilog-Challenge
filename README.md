@@ -24,4 +24,6 @@
 22. Shift Registers II : This contains Parallel in Parallel out and serial out Shift Registers.
 23. Bidirectional Shift Register : This contains 4bit shift register ////
 24. Universal Shift Register : This contains universal shift register which perform left, right, pipo shifts.
+25. GCD : This Contains greatest common divisor which gives GCD value of two random numbers.
+26. Factorial : This Contains the factorial of the given input value.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
