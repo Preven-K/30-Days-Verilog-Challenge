@@ -26,4 +26,5 @@
 24. Universal Shift Register : This contains universal shift register which perform left, right, pipo shifts.
 25. GCD : This Contains greatest common divisor which gives GCD value of two random numbers.
 26. Factorial : This Contains the factorial of the given input value.
+27. Synchronus FIFO : This Contains FIFO concept with synchronused Clock.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
