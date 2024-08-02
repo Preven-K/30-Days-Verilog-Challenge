@@ -27,4 +27,5 @@
 25. GCD : This Contains greatest common divisor which gives GCD value of two random numbers.
 26. Factorial : This Contains the factorial of the given input value.
 27. Synchronus FIFO : This Contains FIFO concept with synchronused Clock.
+28. Sequence Detector : This sequence detector for detecting 101 sequence with moore model.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
