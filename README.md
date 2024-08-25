@@ -28,5 +28,6 @@
 26. Factorial : This Contains the factorial of the given input value.
 27. Synchronus FIFO : This Contains FIFO concept with synchronused Clock.
 28. Sequence Detector : This sequence detector for detecting 101 sequence with moore model.
-29. Random Access Memory : This has a 8bit data with 3bit address for a single port RAM and configurable single port RAM.
+29. Random Access Memory : This has a 8bit data with 3bit address for a single port RAM.
+30. RAM : enhanced single port RAM and Dual port RAM.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
